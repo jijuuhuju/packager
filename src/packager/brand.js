@@ -41,7 +41,7 @@ https://www.mozilla.org/en-US/MPL/2.0/.`,
   SOURCE_CODE: 'https://github.com/TurboWarp/packager',
   FEEDBACK_PRIMARY: {
     name: 'Scratch',
-    link: 'https://scratch.mit.edu/users/GarboMuffin/#comments'
+    link: 'https://scratch.mit.edu/users/jijuuhuju/#comments'
   },
   FEEDBACK_SECONDARY: {
     name: 'GitHub',
